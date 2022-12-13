@@ -7,13 +7,16 @@ A base de dados foi extraida do governo dos estados unidos [link](https://catalo
 
 ### As raças encontradas na base de dados são: 
 
-[analise Rarámuri Crioulo (JRC)]()\n 
+[analise Rarámuri Crioulo (JRC)]()
+
 resumo:
 
 
-[analise Crioulo Mexicano (MC)]()\n
+[analise Crioulo Mexicano (MC)]()
+
 resumo:
 
 
-[analise Crioulo × Mestiço de Corte (XC)]()\n
+[analise Crioulo × Mestiço de Corte (XC)]()
+
 resumo:
