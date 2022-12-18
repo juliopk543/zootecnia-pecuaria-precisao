@@ -7,16 +7,29 @@ A base de dados foi extraida do governo dos estados unidos [link](https://catalo
 
 ### As raças encontradas na base de dados são: 
 
-[analise Rarámuri Crioulo (JRC)]()
+[analise Rarámuri Crioulo (RC)](https://github.com/juliopk543/zootecnia-pecuaria-precisao/blob/main/AnaliseRebanho(USD).gov/Analise/CriouloRaramuri.ipynb)
 
 resumo:
+RC se apresentou com a menor volatilidade do controle de peso, em relação aos outros rebanhos.
+Em todos os meses houve ganho de peso acima do esperado, e não foi registrado nenhum gado abaixo de 12Arroba.
+O experimento de cohort C1 chegou a alcançar o peso desejado no final do ano.
 
 
-[analise Crioulo Mexicano (MC)]()
-
-resumo:
-
-
-[analise Crioulo × Mestiço de Corte (XC)]()
+[analise Crioulo Mexicano (MC)](https://github.com/juliopk543/zootecnia-pecuaria-precisao/blob/main/AnaliseRebanho(USD).gov/Analise/CriouloMexicano.ipynb)
 
 resumo:
+MC se apresentou com a maior volatilidade sobre o controle de peso, em relação aos outros rebanhos.
+essa raça foi a única a registrar gados com 11Arrobas ou menos.
+houve ganho de peso esperado para os meses, mas o peso final esperado no fim do ano, não foi alcançado.
+
+[analise Crioulo × Mestiço de Corte (XC)](https://github.com/juliopk543/zootecnia-pecuaria-precisao/blob/main/AnaliseRebanho(USD).gov/Analise/CriouloMesticoDeCorte.ipynb)
+
+resumo:
+A Raça Crioulo Mestiço de Corte se apresenta com o melhor desempenho de peso em relação as outras raças.
+com a média mensal próxima a 300KG. É notado que apenas o Cohort C1 alcançou 23-30 Arroba, já o cohort C2 é o único com registro de gados a 12-25 Arroba.
+5 Meses antes do final da pesquisa alguns gados já tinham ganhado 90kg, sendo o ganho de peso esperado para o final do ano. e avaliamos que 
+apenas o cohort C1 conseguiu ficar acima da perspectiva esperada.
+
+
+### Qual a melhor raça para reprodução Genética?
+A Raça Crioulo Mestiço de Corte foi a única que alcançou em 5 meses o peso aguardado para o fim do ano, e ficado ao final da pesquisa além do peso desejado.
