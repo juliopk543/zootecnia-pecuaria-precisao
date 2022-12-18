@@ -25,15 +25,15 @@ apenas o cohort C1 conseguiu ficar acima da perspectiva esperada.
 [analise Rarámuri Crioulo (RC)](https://github.com/juliopk543/zootecnia-pecuaria-precisao/blob/main/AnaliseRebanho(USD).gov/Analise/CriouloRaramuri.ipynb)
 
 resumo:
-RC se apresentou com a menor volatilidade do controle de peso, em relação aos outros rebanhos, e isso gera previsibilidade no acompanhamento.
-Em todos os meses houve ganho de peso acima do esperado, e não foi registrado nenhum gado abaixo de 12Arroba.
+A Raça Crioulo Rarámouri se apresenta com a menor volatilidade no controle de peso, em relação aos outros rebanhos, e isso gera previsibilidade no acompanhamento.
+Em todos os meses houve ganho de peso acima do esperado e não foi registrado nenhum gado abaixo de 12Arroba.
 O rebanho em experimento de cohort C1, chegou a alcançar o peso desejado no final do ano.
 
 
 [analise Crioulo Mexicano (MC)](https://github.com/juliopk543/zootecnia-pecuaria-precisao/blob/main/AnaliseRebanho(USD).gov/Analise/CriouloMexicano.ipynb)
 
 resumo:
-MC se apresentou com a maior volatilidade sobre o controle de peso, em relação aos outros rebanhos, e isso não é bom.
+A Raça Crioulo Mexicano se apresenta com a maior volatilidade no controle do peso em relação aos outros rebanhos, e isso não é bom.
 essa raça foi a única a registrar gados com 11Arrobas ou menos.
 houve o ganho de peso esperado durante os meses, mas o peso final esperado no fim do ano, não foi alcançado.
 
